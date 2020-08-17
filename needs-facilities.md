@@ -9,6 +9,6 @@
 ## Scenario: Alert when seating capacity is full
 
 - Given: VisitoR visit.
-- When: Foot falls_count - patient_count - hospital_staff_count
+- When: Number of Foot fall - number of patient - hospital staff
         is euqal to the seats avaiable.
 - Then: Alert.
