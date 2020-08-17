@@ -4,7 +4,7 @@
 
 - Given:
 - When:
-- Then: 
+- Then:
 
 ## Scenario: Alert when seating capacity is full
 
