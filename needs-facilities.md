@@ -8,6 +8,6 @@
 
 ## Scenario: Alert when seating capacity is full
 
-- Given: Visitos visit.
-- When: Foot falls count-patient count-hospital stall is euqal to the seat avaiable.
+- Given: VisitoR visit.
+- When: Foot falls_count - patient_count - hospital_staff_count is euqal to the seats avaiable.
 - Then: Alert.
