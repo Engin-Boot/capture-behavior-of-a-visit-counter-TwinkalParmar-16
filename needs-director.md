@@ -4,7 +4,7 @@
 
 - Given: Patient visit.
 - When: On working day and holidays.
-- Then: Count full-falls.
+- Then: Count foot-falls.
         Issue Patient card to patient and visitor card to guests.
         Provide bed and nurse to patient by director.
         Seating arrangement for the guest by Facilities manager.
