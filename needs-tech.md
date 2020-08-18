@@ -9,7 +9,7 @@
 
 ## Scenario: Reconcile counts if the sensor is offline for a while
 
-- Given : Sensor is offline for sometime.
+- Given : Sensor is offline for a while.
 - When: During visitors are visiting.
 - Then: Store the count of visitor before the sensor is offline.
           Store the count of visitor after the sensor is offline.
