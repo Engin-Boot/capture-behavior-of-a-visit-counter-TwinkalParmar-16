@@ -13,4 +13,4 @@
 - Then: Store the count of visitor before the system failure or sensor is offline.
           Store the count of visitor after the system failure or sensor is offline.
           And predict the count of visitor during this failure.
-          And finally show the sum of all three counts.
+          And show the sum of all three counts.
