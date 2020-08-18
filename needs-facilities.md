@@ -3,7 +3,7 @@
 ## Scenario: Report visitor trends during a week of operation
 
 - Given: The system is capturing or storing visitor data accurately.
-- When: After a week from the starting point or day.
+- When: After a week from the starting day.
 - Then: Show the dashboard or statistic data of visitors.
 
 ## Scenario: Alert when seating capacity is full
